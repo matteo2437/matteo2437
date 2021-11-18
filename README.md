@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @matteo2437
 - 👀 I’m interested in 3D printing and web developing
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently computer data science
 - 📫 You can reach me on matteo.budriesi@gmail.com
