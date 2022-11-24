@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @matteo2437
 - 👀 I’m interested in 3D printing and web developing
-- 🌱 I’m currently computer science
-- 📫 You can reach me on matteo.budriesi@gmail.com
+- 🌱 I’m Co-founder at Webion Srl
+- 📫 You can reach me on matteo.budriesi@webion.it
